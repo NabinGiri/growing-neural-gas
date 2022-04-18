@@ -16,8 +16,8 @@ of the data is inferred from the graph.
 `moon.png` -> final output after runing growing neural gas on moon \
 `moon.gif` -> gif of moon from growing neural gas \
 `org_blob.png` -> original blob image used as input to growing neural gas \
-`blob.png` -> final output after runing growing neural gas on moon \
-`blob.gif` -> gif of moon from growing neural gas 
+`blob.png` -> final output after runing growing neural gas on blob \
+`blob.gif` -> gif of blob from growing neural gas 
 
 # Usage
 Run `growing_neural_gas` to train the model ; change the which data to use from `DATA = DATA_1 or DATA_2` from line 32 \
