@@ -1,4 +1,4 @@
-# Implementation of growing neural gas
+# Implementation of Growing Neural Gas (GNG)
 
 This is the implemenation of growing neural gas paper (Fritzke, Bernd. "A growing neural gas network learns topologies." Advances in neural information processing systems 7 (1994).). Growing neural gas algorithm unlike any other algorithm does not make predictions, instead, it learns
 the topological structure of the data in form of the graph. After training of the network, the structure
