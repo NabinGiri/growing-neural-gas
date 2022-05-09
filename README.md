@@ -26,8 +26,8 @@ The `.gif` file will be saved on the same directory where the program resides
 
 
 
-
-
-
+![Alt Text](data/astro.gif)
+![Alt Text](data/moon.gif)
+![Alt Text](data/circle.gif)
 
 
